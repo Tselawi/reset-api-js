@@ -8,4 +8,4 @@ Welcome to the JavaScript folder.
 
 ### link to my project
 
-- [Look where's the space Ship]https://tselawi.github.io/reset-api-js/
+- [Look where's the space Ship] (https://tselawi.github.io/rest-api-js/)
