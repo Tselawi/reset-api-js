@@ -1,6 +1,10 @@
-# reset-api-js
+# Ex: Rest-Api JavaScript
 
--[leafletjs] (https://leafletjs.com/download.html)
--[Where is ISS at? the api info] (https://wheretheiss.at/w/developer)
+Welcome to the JavaScript folder.
 
-## my project link
+## Resources
+-[Where the Iss] https://wheretheiss.at/w/developer
+-[leafletjs] https://leafletjs.com/download.html 
+
+### link to my project
+
